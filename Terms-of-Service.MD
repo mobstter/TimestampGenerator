@@ -1,6 +1,6 @@
 Terms of Service (TOS)
 
-Effective Date: August 2025
+Effective Date: 28th of August 2025 (28/08/2025)
 
 By using the Timestamp Generator Discord Bot (“Bot”), you agree to the following terms:
 
